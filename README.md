@@ -12,8 +12,8 @@ This is a simple pizza order app built using Jetpack Compose, designed to demons
 ## Demo
 
 
-https://www.playbook.com/s/mohamadalemi/D4Gi941GrNWZpyUcY4UxVMQP?assetToken=pZ6bWPaV4NsFnzis3SjTkZx2
-
+[https://www.playbook.com/s/mohamadalemi/D4Gi941GrNWZpyUcY4UxVMQP?assetToken=pZ6bWPaV4NsFnzis3SjTkZx2
+](https://github.com/user-attachments/assets/c1b998bf-6861-4e0d-91ee-51366129cd84)
 ## Installation
 
 1. Clone the repository using the following command:
