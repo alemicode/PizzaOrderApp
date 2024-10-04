@@ -8,17 +8,11 @@ This is a simple pizza order app built using Jetpack Compose, designed to demons
 - Scaling the size of the pizza based on user preference.
 - Real-time topping placement on the pizza as selected by the user.
 
-## Screenshots
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/devsadeq/PizzaOrderApp/assets/64174395/b6252ce3-217c-4ec2-90cb-029f327998a4" alt="Screenshot 1" width="45%">
-  <img src="https://github.com/devsadeq/PizzaOrderApp/assets/64174395/08dd74a6-7fef-47ac-b10c-043a199dfac2" alt="Screenshot 2" width="45%">
-</div>
 
 ## Demo
-https://youtube.com/shorts/AbLk0Z-8h_E?feature=share
 
-https://github.com/devsadeq/PizzaOrderApp/assets/64174395/8e155318-839f-4122-91a1-ca09e8473286
+
+https://www.playbook.com/s/mohamadalemi/D4Gi941GrNWZpyUcY4UxVMQP?assetToken=pZ6bWPaV4NsFnzis3SjTkZx2
 
 ## Installation
 
